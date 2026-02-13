@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <h3 align="left">Thank you for looking at my profile<br>I am a South Korean student whose dream is to be a developer</h3>
 
 ###
@@ -13,10 +12,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/lcpark10/lcpark10/output/snake.svg" alt="Snake animation" />
 
 ###
 
